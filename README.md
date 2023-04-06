@@ -2,7 +2,8 @@
 
 
 ## Recognition of gestures and actitons
-![Yoga gestures](https://user-images.githubusercontent.com/107938584/230485066-dd230d4d-3e1c-45d9-b1cf-4dba5d629151.png)
+![Yoga gestures 2](https://user-images.githubusercontent.com/107938584/230486005-96085c0e-431f-4460-a18c-7333cb4db8db.png)
+
 
 
 ## Classification of emotions
